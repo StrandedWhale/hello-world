@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+I'm XuShiqinrui, write this is just for trying.
